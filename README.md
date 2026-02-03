@@ -1,9 +1,9 @@
 ### Hello, I’m Tomas De La Fuente Marques!
 
-Currenyl workin n Cytometry in R
-My Favorite Fluorophore/Metal-Isotope: Propidium Iodide (partner in crime).
-Previous Coding Experience: digital archaeologist FROM 2000s (HTML, PHP and MySQL).
-What I Hope to Get From This Course: Understanding, clarity, and the ability to tell my cytometer who's boss.
+Currently: Working on Cytometry in R.
+Favorite Fluorophore/Metal-Isotope: Propidium Iodide (partner in crime).
+Previous Coding Experience: A digital archaeologist of the 2000s (HTML, PHP, MySQL).
+Goal for This Course: To achieve understanding, clarity, and the ability to tell my cytometer who's boss.
 
 👋 I’m a Molecular Cell Biologist and you can find me here at [LinkedIn](https://www.linkedin.com/in/tomthescientist3001/) <br>
 🏫 I’ve graduated in Medical & Molecular Biological Sciences (BSc) from Anglia Ruskin University, England. <br>
