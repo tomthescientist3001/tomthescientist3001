@@ -1,6 +1,7 @@
 ### Hello, I’m Tomas De La Fuente Marques!
 
 Currently: Working on Cytometry in R. <br>
+<ins>This text will be underlined</ins>
 — Favorite Fluorophore/Metal-Isotope: Propidium Iodide (partner in crime). <br>
 — Previous Coding Experience: A digital archaeologist of the 2000s (HTML, PHP, MySQL). <br>
 — Goal for This Course: To achieve understanding, clarity, and the ability to tell my cytometer who's boss. <br>
